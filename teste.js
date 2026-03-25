@@ -1,6 +1,5 @@
-// algoritmo.js
-function ehPar(numero) {
-  return numero % 2 === 0;
+function sum (x, y) {
+    return x * y;
 }
 
-module.exports = ehPar;
+module.exports = sum;
